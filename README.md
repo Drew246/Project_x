@@ -1,2 +1,2 @@
 # Project_x
-learning git
+learning git, bit by bit.
